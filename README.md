@@ -12,25 +12,25 @@ _Smoking And Coffiee_
 ___
 
 
-INFORMASI ? 
+_INFORMASI PENGEMBANG_
 
-DEV : ACILL XD
+_DEV : ACILL XD_
 
-SUPPORT : MIKASA GANS
+_SUPPORT : MIKASA GANS_
 
-MY TEAM : X CODE
+_MY TEAM : X CODE_
 
-Contact : acillniboss@gmail.com
+_Contact : acillniboss@gmail.com_
 
 ___
 
 
 _SCRIPT PREM_
 
-_V1_
+_SCRIPT FACEBOOK V1_
 <a href="https://ibb.co/vqvRF7T"><img src="https://i.ibb.co/1QJjgDP/IMG-20220406-WA0035.jpg" alt="IMG-20220406-WA0035" border="0"></a>
 
-_V2_
+_SCRIPT FACEBOOK V2_
 <a href="https://ibb.co/42wvTnj"><img src="https://i.ibb.co/pQ6VzB3/Screenshot-20220406-094237.jpg" alt="Screenshot-20220406-094237" border="0"></a>
 ___
 
