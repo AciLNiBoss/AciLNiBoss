@@ -28,8 +28,7 @@ ___
 _SCRIPT PREM_
 
 _SCRIPT FACEBOOK V1_
-<a href="https://ibb.co/vqvRF7T"><img src="https://i.ibb.co/1QJjgDP/IMG-20220406-WA0035.jpg" alt="IMG-20220406-WA0035" border="0"></a>
-
+<a href="https://ibb.co/KVdzdcp"><img src="https://i.ibb.co/WBZpZN4/IMG-20220423-052742.jpg" alt="IMG-20220423-052742" border="0"></a>
 _SCRIPT FACEBOOK V2_
 <a href="https://ibb.co/42wvTnj"><img src="https://i.ibb.co/pQ6VzB3/Screenshot-20220406-094237.jpg" alt="Screenshot-20220406-094237" border="0"></a>
 ___
