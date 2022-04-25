@@ -30,9 +30,7 @@ _SCRIPT PREM_
 _SCRIPT FACEBOOK V1_
 <a href="https://ibb.co/KVdzdcp"><img src="https://i.ibb.co/WBZpZN4/IMG-20220423-052742.jpg" alt="IMG-20220423-052742" border="0"></a>
 _SCRIPT FACEBOOK V2_
-<a href="https://ibb.co/42wvTnj"><img src="https://i.ibb.co/pQ6VzB3/Screenshot-20220406-094237.jpg" alt="Screenshot-20220406-094237" border="0"></a>
-___
-
+<a href="https://ibb.co/SPjxb1g"><img src="https://i.ibb.co/bP03TyV/IMG-20220426-010629.jpg" alt="IMG-20220426-010629" border="0"></a>
 ___
 _BANYAK PERICODE BILA INGIN MEMBELI SCRIPT_
 
