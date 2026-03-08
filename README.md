@@ -1,56 +1,98 @@
-<a href="https://ibb.co/C1GLBt6"><img src="https://i.ibb.co/8KZkMBb/1649276617162.jpg" alt="1649276617162" border="0"></a>
-<center>
+<p align="center">
+<img src="https://i.ibb.co/8KZkMBb/1649276617162.jpg"/>
+</p>
 
+<h1 align="center">AciLNiBoss</h1>
 
-* MY SOCIAL MEDIA :
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Automation+Developer;Web+Platform+Builder;System+Scripting;Experimental+Tools+Creator&center=true&width=500&height=45">
+</p>
 
-<a href="https://Instagram.com/Acill_gaming12"><img src="https://disk.mediaindonesia.com/thumbs/1800x1200/news/2020/03/1e2c29c543e1c21f54846e7f3eae7c7e.jpg" alt="alt text" width="20" height="20"></a> 
-<a href="https://wa.me/+6283115893229?text=Asalamualaikum+bang"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/whatsapp.png" alt="alt text" width="20" height="20"></a>
-<a href="https://www.facebook.com/Acillxcode12"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="alt text" width="20" height="20"></a> 
-___
-_Smoking And Coffiee_
-___
+---
 
+## Terminal
 
-_INFORMASI PENGEMBANG_
+```bash
+> whoami
+AciLNiBoss
 
-_DEV : ACILL XD_
+> role
+Automation Developer
 
-_SUPPORT : MIKASA GANS_
+> focus
+Automation Systems
+Web Platforms
+Experimental Tools
 
-_MY TEAM : X CODE_
+> environment
+Linux / Termux / Node.js
+```
 
-_Contact : acillniboss@gmail.com_
+---
 
-___
+## Matrix Coding
 
+<p align="center">
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
+</p>
 
-_SCRIPT PREM_
+---
 
-_SCRIPT FACEBOOK V1_
-<a href="https://ibb.co/KVdzdcp"><img src="https://i.ibb.co/WBZpZN4/IMG-20220423-052742.jpg" alt="IMG-20220423-052742" border="0"></a>
-_SCRIPT FACEBOOK V2_
-<a href="https://ibb.co/SPjxb1g"><img src="https://i.ibb.co/bP03TyV/IMG-20220426-010629.jpg" alt="IMG-20220426-010629" border="0"></a>
-___
-_BANYAK PERICODE BILA INGIN MEMBELI SCRIPT_
+## About
 
-_SILAHKAN HUBUNGI KONTAK KAMI_ 
+Developer focused on building **automation tools, web utilities, and experimental systems**.
 
-_KAMI HANYA MENJUAL SEBUAH SCRIPT PREM_
+I enjoy creating tools that automate workflows and simplify digital processes.
 
-_BERBENTUK FILE_
+---
 
-___
+## Tech Stack
 
-___
+### Languages
 
-_CUKUP SEKIAN DARI SAYA 😂_
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
+![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
 
-_TERIMAH KASIH SUDAH MAMPIR_
+### Tools & Platforms
 
-_JANGAN LUPA FOLLOW AKUN SOSIAL SAYA_
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Termux](https://img.shields.io/badge/Termux-black?style=for-the-badge&logo=android)
 
-_SALAM DARI MY TEAM X CODE☺️_
+---
 
-___
+## Coding Activity
 
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=AciLNiBoss&theme=github)
+
+---
+
+## Random Dev Quote
+
+![quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
+
+---
+
+## Profile Visitors
+
+![visitors](https://komarev.com/ghpvc/?username=AciLNiBoss&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+## Philosophy
+
+> Build tools that solve problems  
+> Automate repetitive tasks  
+> Keep systems simple
+
+---
+
+<p align="center">
+Build • Experiment • Improve
+</p>
